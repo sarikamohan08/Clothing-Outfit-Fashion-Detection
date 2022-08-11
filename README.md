@@ -31,6 +31,8 @@ python clientApp.py
 
 output screen
 
+![alt text](o1.PNG)
+
 ![alt text](o2.PNG)
 
 
