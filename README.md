@@ -18,7 +18,7 @@ conda create -n envname python=3.7 -y
 install the requirements
 
 ```
-pip install -r requirements
+pip install -r requirements.txt
 
 ```
 
@@ -31,8 +31,8 @@ python clientApp.py
 
 output screen
 
-![alt text](https://github.com/sarikamohan08/fashion_apparel/blob/master/input%20pic.PNG)
+![alt text](o2.PNG)
 
 
-![alt text](https://github.com/sarikamohan08/fashion_apparel/blob/master/output%20pic.PNG)
+
 
